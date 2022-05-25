@@ -1,4 +1,4 @@
-# Manhatten-School-Districts-Standardized-Testing-Analysis
+# Manhattan-School-Districts-Standardized-Testing-Analysis
 
 ---
 
